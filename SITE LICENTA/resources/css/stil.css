@@ -1,0 +1,162 @@
+body {
+     color: rgb(70, 0, 100);
+     background-color: rgb(255, 255, 255);
+     background-repeat: no-repeat;
+     background-attachment: fixed;  
+     background-size: 100% 100%;
+     text-align: center;
+   }
+   
+   h1,h2 {
+     font-weight: bold; 
+     text-align: center;
+     font-size: 50px;
+   }
+ 
+   h3 {
+     color: rgb(70, 0, 100);
+     font-weight: bold; 
+     font-family: "Monaco";
+     text-align: center;
+     font-size: 50px;
+   }
+ 
+   p {
+     font-size: 40px;
+     font-weight: bold;
+     text-align: center;
+     font-family: "Monaco";
+   }
+
+   p1 {
+     padding: 20px;
+     font-size: 30px;
+   }
+
+   p2 {
+    padding: 15px;
+    font-size: 30px;
+    font-weight: bold;
+   }
+ 
+   p8 {
+     font-size: 20px;
+     font-style: italic;
+     text-align: center;
+   }
+ 
+   p9 {
+     font-size: 30px;
+     font-style: italic;
+     text-align: center;
+     width: 40px;
+   }
+ 
+   .lista-pachete {
+     font-size: 30px;
+     font-weight: bold;
+     text-align: center;
+   }
+ 
+   .coverhome {
+     margin-top: 30px;
+     width: 100%;
+   }
+ 
+   a {
+     color: rgb(70, 0, 100);
+     text-decoration: none; 
+     transition: color 0.5s; 
+   }
+ 
+   a:hover {
+     color: #1d007c; 
+   }
+ 
+   table {
+     width: 66%;
+     border-style: none;
+     padding: 30px;
+     border-collapse: collapse;
+     margin: 0 auto;
+   }
+ 
+   th, td {
+     border-collapse: collapse;
+     width: 400px;
+     font-size: 30px;
+     text-align: center;
+     margin: 10px auto; 
+     border: 10px;
+     border-style: none;
+     padding: 10px;
+     background-image: url(images/background-tabele.jpg);
+   }
+ 
+   button {
+     font-weight: bold; 
+     font-family: "Monaco";
+     padding: 5px 10px; 
+     font-size: inherit; 
+   }
+ 
+   .center {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 66%;
+   }
+ 
+   .texte {
+     color: #1d007c; 
+     border: 2px black;
+     margin: 20px;
+     padding: 20px;
+   }
+   
+  
+ 
+   li,ul {
+     font-size: 30px;
+     font-weight: bold;
+     text-align: center;
+     list-style-position: inside;
+   }
+ 
+   footer {
+     text-align: center;
+     font-weight: bold;
+     padding: 3px;
+     background-color: rgb(70, 0, 100);
+     color: rgb(225, 215, 255);
+   }
+ 
+   html, a, button, input
+   {
+     cursor: url(resources/images/cursor.png), auto;
+   }
+ 
+   .ctrl > div {
+     display: inline-block;
+   }
+   
+   .slides > img {
+     height: 40%;
+     width: 30%;
+   }
+ 
+   .show {
+     display: block;
+ }
+ 
+   .iconite {
+     display: inline-block;
+     position: center;
+     vertical-align: top;
+     margin-left: 5px;
+ }
+ 
+
+
+
+
